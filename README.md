@@ -29,4 +29,5 @@ This system monitors the driver's eye movements and sends real-time audio alerts
 - This project is licensed under the MIT License.
 
 ## Contact
-- For queries, contact K J Justin.
+- For queries or suggestions, reach out to [K J Justin](https://github.com/Kjjustin/Drowsiness-Detection-System-with-Real-Time-Alerts-for-Drivers-Using-openCV/issues).
+
